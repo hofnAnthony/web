@@ -1,0 +1,30 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "swipe": [
+    {
+      "id": 1,
+      "title":"",
+      "url":"http://p2ncp64d6.bkt.clouddn.com/ship01.jpg"
+    },
+    {
+      "id": 2,
+      "title":"",
+      "url":"http://p2ncp64d6.bkt.clouddn.com/ship02.jpg"
+    },
+    {
+      "id": 3,
+      "title":"",
+      "url":"http://p2ncp64d6.bkt.clouddn.com/ship03.jpg"
+    },
+    {
+      "id": 4,
+      "title":"",
+      "url":"http://p2ncp64d6.bkt.clouddn.com/ship04.jpg"
+    }
+  ]
+}
